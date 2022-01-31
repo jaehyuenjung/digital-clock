@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.76a0d070.css",
-    "main.js": "/static/js/main.aaf94996.js",
-    "static/media/digital7.ttf": "/static/media/digital7.93911ab167c943140756.ttf",
-    "index.html": "/index.html",
-    "main.76a0d070.css.map": "/static/css/main.76a0d070.css.map",
-    "main.aaf94996.js.map": "/static/js/main.aaf94996.js.map"
+    "main.css": "/digital-clock/static/css/main.df0805bc.css",
+    "main.js": "/digital-clock/static/js/main.c3a222d4.js",
+    "static/media/digital7.ttf": "/digital-clock/static/media/digital7.93911ab167c943140756.ttf",
+    "index.html": "/digital-clock/index.html",
+    "main.df0805bc.css.map": "/digital-clock/static/css/main.df0805bc.css.map",
+    "main.c3a222d4.js.map": "/digital-clock/static/js/main.c3a222d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.76a0d070.css",
-    "static/js/main.aaf94996.js"
+    "static/css/main.df0805bc.css",
+    "static/js/main.c3a222d4.js"
   ]
 }
